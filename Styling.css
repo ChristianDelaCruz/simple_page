@@ -20,7 +20,7 @@ body{
 
 h1 a{
     font-size: 50px;
-    font-weight: 100;
+    font-weight: bold;
     padding-right:45px;
     color: rebeccapurple;
     text-decoration: none;
@@ -33,15 +33,15 @@ h1 a{
     float: right;
     background: linear-gradient(Purple, Pink);
     width: 300px;
-    height: 50px;
-    padding: 20px 20px 0px 20px;
-    margin-top: 20px;
+    height: 55px;
+    padding: 5px 5px 0px 5px;
+    margin-top: 10px;
 }
 
 .text{
     float: left;
-    width: 200px;
-    padding: 5px;
+    width: 215px;
+    padding: 8px;
     font-size: 15px;
     color: white;
     background: white url(images/search.png) right center no-repeat;
@@ -51,7 +51,7 @@ h1 a{
 
 .submit{
     float:right;
-    padding: 5px;
+    padding: 7px;
     font-weight: bold;
     color: white;
     background: #A751D6;
@@ -63,9 +63,9 @@ h1 a{
 }
 
 #menu{
-    height: 70px;
+    height: 45px;
     background:linear-gradient(#F8F594, #D5D533);
-    padding: 7px 0px;
+    padding: 10px 0px;
 }
 
 ul{
@@ -75,7 +75,7 @@ ul{
 #menu ul li{
     float: left;
     padding: 0px 20px;
-    height: 20px;
+    height: 30px;
     border-right: 1px solid #5d12e7;
  
 }
@@ -128,15 +128,16 @@ ul{
 
 .sidebar{
     height: 500px;
-    width: 450px;
+    width: 490px;
     background: linear-gradient(Purple, Pink);
     border: 1px solid #BAF46F;
     border-radius:20px;
-    padding: 10px 30px;
+    padding: 10px 20px;
+    margin: 10px 0px;
 }
 
 .sidebar h3{
-    color:rebeccapurple;
+    color: mediumpurple;
     font-size: 30px;
 }
 
@@ -177,10 +178,10 @@ ul{
 }
 
 .footer{
-    height:60px;
+    height:80px;
     background: linear-gradient(#F6F390, #D5D533);
-    padding:10px 30px;
-    Margin-top: 15px;
+    padding: 1px 5px;
+    Margin-top: 10px;
 }
 
 
